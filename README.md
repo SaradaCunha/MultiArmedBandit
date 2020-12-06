@@ -25,7 +25,7 @@ a) função __init__, que coresponde às definições iniciais do programa que s
 b) função alavanca, que simula o *arm*, ou seja a acção de puxar a alavanca da máquina no casino;
 c) função update, que são as probabilidades estimadas para cada máquina
 
-/Users/isabelrodrigues/Downloads/MAB.py image
+https://github.com/SaradaCunha/MultiArmedBandit/issues/1#issue-757970962
 
 #2. Programa.ipynb:#
 
